@@ -2,13 +2,13 @@
 CodePath Mar 2015
 
 - How many hours did it take to complete?
-- 
+
 I spent around 10-12 hours on total on this project
 
 - Which required and optional stories have you completed?
 
 Required:
-All required stories
+* [x] All required stories
 
 Optional:
 * [x] Change font, change color
