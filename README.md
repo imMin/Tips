@@ -9,13 +9,13 @@ Required:
 All required stories
 
 Optional:
-Change font, change color
-add custom font
-add launch image
-add app icon
-add split by 2, 3, 4 options
-add an input field to input how many people to split by
-add animation 
+* [x] Change font, change color
+* [x] Add custom font
+* [x] Add launch image
+* [x] Add app icon
+* [x] Add split by 2, 3, 4 options
+* [x] Add an input field to input how many people to split by
+* [x] Add animation 
 
 -Video Walkthrough
 
