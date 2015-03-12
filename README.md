@@ -21,6 +21,6 @@ Optional:
 
 -Video Walkthrough
 
-![Video Walkthrough](https://cloud.githubusercontent.com/assets/8554507/6613907/5cb5cdda-c850-11e4-987a-69211930e61d.gif)
+![Video Walkthrough](https://cloud.githubusercontent.com/assets/8554507/6613994/9cf71326-c851-11e4-9752-f6e18de91689.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/)
